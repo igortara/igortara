@@ -1,4 +1,4 @@
-# Hi there, I'm Feliks!
+# Hi there, I'm igortara! 
 
 I am a developer from Ukraine. Originally from **Chasiv Yar** (Donetsk region), currently based and coding in **Kyiv**.
 
@@ -37,4 +37,6 @@ I'm a programmer focused on building functional applications and game mechanics.
 - **Discord:** `feliks_dev`
 
 ---
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=igortara&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mandeeps708/mandeeps708/master/assets/code.gif" width="300">
+</p>
