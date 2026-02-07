@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name/Nickname]! 🇺🇦
+# Hi there, I'm Feliks!
 
 I am a developer from Ukraine. Originally from **Chasiv Yar** (Donetsk region), currently based and coding in **Kyiv**.
 
@@ -8,10 +8,12 @@ I'm a programmer focused on building functional applications and game mechanics.
 
 ### 🛠 Tech Stack
 
-* **Programming Languages:** * 🐍 **Python** (Backend development & scripting)
+* **Programming Languages:**
+    * 🐍 **Python** (Backend development & scripting)
     * 🌙 **Luau** (Advanced Roblox Studio development)
     * 🏗 **C#** (Currently learning / focusing on fundamentals)
     * 🌐 **HTML / CSS** (Web basics)
+
 * **Core Interests:**
     * ⚙️ **Backend Development** (Everything except ML)
     * 🎮 **Game Mechanics** (Systems, logic, and server-side scripting)
@@ -27,13 +29,12 @@ I'm a programmer focused on building functional applications and game mechanics.
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=igortara&show_icons=true&theme=tokyonight)
+![igortara's GitHub stats](https://github-readme-stats.vercel.app/api?username=igortara&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with me
-- **Discord:** `Your_Discord_Tag`
-- **Telegram:** @YourUsername
+- **Discord:** `feliks_dev`
 
 ---
 <p align="center">
