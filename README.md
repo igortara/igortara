@@ -15,7 +15,7 @@ I'm a programmer focused on building functional applications and game mechanics.
     * 🌐 **HTML / CSS** (Web basics)
 
 * **Core Interests:**
-    * ⚙️ **Backend Development** (Everything except ML)
+    * ⚙️ **Backend Development** (Everything except ML..)
     * 🎮 **Game Mechanics** (Systems, logic, and server-side scripting)
     * 💻 **Software Engineering**
 
