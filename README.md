@@ -1,4 +1,4 @@
-# Hi there, I'm igortara! 
+# Hi there, I'm Feliks Dev! 
 
 I am a developer from Ukraine. Originally from **Chasiv Yar** (Donetsk region), currently based and coding in **Kyiv**.
 
@@ -9,10 +9,10 @@ I'm a programmer focused on building functional applications and game mechanics.
 ### 🛠 Tech Stack
 
 * **Programming Languages:**
-    * 🐍 **Python** (Backend development & scripting)
-    * 🌙 **Luau** (Advanced Roblox Studio development)
-    * 🏗 **C#** (Currently learning / focusing on fundamentals)
-    * 🌐 **HTML / CSS** (Web basics)
+    *  **Python** (Backend development & scripting)
+    *  **Luau** (Advanced Roblox Studio development)
+    *  **C#** (Currently learning / focusing on fundamentals)
+    *  **HTML / CSS** (Web basics)
 
 * **Core Interests:**
     * ⚙️ **Backend Development** (Everything except ML..)
@@ -21,10 +21,10 @@ I'm a programmer focused on building functional applications and game mechanics.
 
 ---
 
-### 🚀 Current Focus
-- 🛠 Deepening my knowledge of **C#** and system logic.
-- 🎮 Creating robust systems and mechanics in **Roblox**.
-- 🐍 Building efficient backend solutions with **Python**.
+###  Current Focus
+-  Deepening my knowledge of **C#** and system logic.
+-  Creating robust systems and mechanics in **Roblox**.
+-  Building efficient backend solutions with **Python**.
 
 ---
 
